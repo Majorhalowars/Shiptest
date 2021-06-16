@@ -5,4 +5,5 @@
 
 ##MISC
 #_maps/RandomRuins/SandRuins/whitesands_surface_hermit.dmm
-#_maps/RandomRuins/SandRuins/whitesands_surface_solgovcrash.dmm
+_maps/RandomRuins/SandRuins/whitesands_surface_solgovcrash.dmm
+_maps/RandomRuins/SandRuins/whitesands_surface_envy.dmm
