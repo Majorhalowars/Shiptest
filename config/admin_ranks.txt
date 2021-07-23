@@ -54,7 +54,12 @@ Include = EVERYTHING
 Exclude =
 Edit = EVERYTHING
 
-Name = Host
+Name = Gaygaygaygay
+Include = EVERYTHING
+Exclude =
+Edit = EVERYTHING
+
+Name = Gaymaster
 Include = EVERYTHING
 Exclude =
 Edit = EVERYTHING

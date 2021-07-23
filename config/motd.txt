@@ -1,5 +1,10 @@
 <!-- Most valid html will work in here, excluding images. -->
 
-<h1>Welcome to Space Station 13!</h1>
+<h1>Welcome to shiptest!</h1>
 
-<i>This server is running a White Sands SS13 Git build.</i>
+<b>This is the pre-pre-alpha of shiptest, a SS13 server set on a tiny scrapper ship. It's based off of the Whitesands codebase, which is itself based off of TGstation.</b><br>
+You must pilot the ship through space in order to loot planets, asteroids, and the ruins found on them in order to find resources to survive, and eventually thrive.
+<br> Everything here is still in the EXTREMELY early phases of testing. This is essentially a working prototype. Keep that in mind as you play.<br>
+Anyways, try to be the best you can be, we really don't want to start establishing actual rules on here.<br><br> Also, read Worm, it's a really good 
+<a href="https://parahumans.wordpress.com/2011/06/11/1-1/">Webserial about a girlboss who controls bugs</a>
+
