@@ -8505,6 +8505,9 @@
 	},
 /turf/open/floor/wood,
 /area/syndicate_mothership/control)
+"ua" = (
+/turf/open/floor/plating/airless,
+/area/syndicate_mothership/control)
 "ud" = (
 /obj/machinery/door/poddoor/shutters{
 	id = "nukeop_ready";
@@ -15727,6 +15730,15 @@
 	},
 /turf/open/space,
 /area/space)
+"KM" = (
+/obj/docking_port/stationary{
+	dwidth = 1;
+	height = 4;
+	name = "recovery ship";
+	width = 3
+	},
+/turf/open/space,
+/area/space)
 "KN" = (
 /obj/structure/window/reinforced,
 /obj/structure/shuttle/engine/heater{
@@ -17749,6 +17761,9 @@
 	},
 /turf/open/floor/plasteel/dark,
 /area/centcom/ferry)
+"VX" = (
+/turf/open/space/basic,
+/area/space)
 "Wc" = (
 /obj/machinery/door/airlock/centcom{
 	name = "CentCom Security";

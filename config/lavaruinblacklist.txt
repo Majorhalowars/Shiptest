@@ -32,13 +32,11 @@ _maps/RandomRuins/LavaRuins/lavaland_surface_envy.dmm
 #_maps/RandomRuins/LavaRuins/lavaland_surface_wwiioutpost.dmm
 #_maps/RandomRuins/LavaRuins/lavaland_surface_tomb.dmm
 #_maps/RandomRuins/LavaRuins/lavaland_surface_hierophant.dmm
-_maps/RandomRuins/LavaRuins/lavaland_surface_fountain_hall.dmm
-_maps/RandomRuins/LavaRuins/lavaland_surface_pizzaparty.dmm
+#_maps/RandomRuins/LavaRuins/lavaland_surface_fountain_hall.dmm
+#_maps/RandomRuins/LavaRuins/lavaland_surface_comm_outpost.dmm
+#_maps/RandomRuins/LavaRuins/lavaland_surface_pizzaparty.dmm
 #_maps/RandomRuins/LavaRuins/lavaland_surface_cultaltar.dmm
 #_maps/RandomRuins/LavaRuins/lavaland_surface_hermit.dmm
 #_maps/RandomRuins/LavaRuins/lavaland_surface_swarmer_crash.dmm
 _maps/RandomRuins/LavaRuins/lavaland_surface_gaia.dmm
 #_maps/RandomRuins/LavaRuins/lavaland_surface_elephant_graveyard.dmm
-_maps/RandomRuins/LavaRuins/kinggoatboss.dmm
-_maps/RandomRuins/LavaRuins/lavaland_surface_random_ripley.dmm
-_maps/RandomRuins/LavaRuins/lavaland_surface_puzzle.dmm

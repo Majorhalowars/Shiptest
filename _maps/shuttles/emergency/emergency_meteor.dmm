@@ -30,6 +30,9 @@
 /obj/item/pickaxe,
 /turf/open/floor/plating/asteroid,
 /area/shuttle/escape/meteor)
+"i" = (
+/turf/open/floor/plating/asteroid,
+/area/shuttle/escape/meteor)
 "k" = (
 /obj/structure/closet/crate,
 /turf/open/floor/plating/asteroid,
@@ -133,7 +136,7 @@ d
 d
 d
 b
-d
+i
 b
 b
 b

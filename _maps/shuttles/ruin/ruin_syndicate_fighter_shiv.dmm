@@ -100,7 +100,6 @@
 /obj/effect/decal/cleanable/dirt,
 /obj/structure/frame/computer{
 	anchored = 1;
-	
 	},
 /turf/open/floor/mineral/plastitanium/red,
 /area/ship/security)
